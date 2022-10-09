@@ -1,4 +1,4 @@
-   web3security_accelerate_proj
+   web3security_accelerate_project
 
 🏠
 •	Create a web3 security portal - front end and back end - for smart contract security and blockchain security.
